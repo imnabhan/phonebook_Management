@@ -30,7 +30,9 @@ In today's fast-paced environment, staying organized is essential. This applicat
 The image above shows the main screen of the Phonebook application.  Here's a breakdown:
 
 **Title:** The title "PhoneBook" clearly indicates the application's purpose.
+
 **Data Fields:** The fields "Name", "Gender", "Telephone", and "Email" represent the contact information that can be stored and managed by the application.  These fields allow users to input and view specific details for each contact.
+
 **Buttons:** The buttons "Add", "Update", "Delete", "Search by Telephone", and "Search" provide the core functionalities of the application.
     * "Add" is likely used to create a new contact entry.
     * "Update" allows modification of existing contact details.
