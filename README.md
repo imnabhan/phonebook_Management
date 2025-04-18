@@ -33,9 +33,7 @@ The image above shows the main screen of the Phonebook application.  Here's a br
 
 This simple and direct interface allows users to quickly understand and interact with the phonebook's features.
 
-## Installation
 
-(Provide instructions on how to install and run the application.  This might involve steps to clone the repository, install dependencies, and run the main script.)
 
 ## Usage
 
