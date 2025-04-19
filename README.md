@@ -72,4 +72,4 @@ Made with 💖 by **[Nabhan](https://github.com/imnabhan)**
 
 ---
 
-Let me know if you’d like badges (like GitHub stars, Python version, etc.), or a clean banner image for this too — happy to generate it!
+
